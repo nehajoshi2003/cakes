@@ -1,0 +1,7 @@
+.base {
+    /* Define the background color */
+    background-color:#fcdfe9;
+    /* Add other desired styles, like min-height */
+    min-height: 100vh;
+  }
+  
